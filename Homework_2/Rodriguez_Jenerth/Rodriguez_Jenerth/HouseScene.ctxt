@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HouseScene
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=x\ y\ size
+comment2.target=javafx.scene.shape.Shape\ createCloud(double,\ double,\ double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
